@@ -7,4 +7,4 @@
 - 📫 How to reach me: burak@pinterrail.com
 
 [Reach more](https://burakgunduztr.github.io)
-![Pinterrail](https://www.pinterrail.com/other/pinterrail-news.png)
+[<img src="https://www.pinterrail.com/other/pinterrail-news.png">](https://pinterrail.com/app)
