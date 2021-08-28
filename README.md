@@ -4,8 +4,7 @@
 
 - 💼 I’m creator of [Pinterrail.](https://pinterrail.com/app)
 - 🔭 I’m currently working as iOS Engineer at Huawei.
-- 🌱 I’m currently learning SwiftUI and Android with Kotlin.
-- 💬 Ask me about iOS, Entrepreneurship.
-- 📫 How to reach me: burak@pinterrail.com
+- 🌱 I'm also one of amateur classical-guitar player.
+- 💬 I'm open to meet developers and entrepreneurs, check my availabilities from [Superpeer.](https://superpeer.com/burakgunduz/-/meet)
 
-[Reach more](https://burakgunduztr.github.io)
+[Find more](https://burakgunduztr.github.io)
