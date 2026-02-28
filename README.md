@@ -6,7 +6,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burakgunduz)
 [![Linktree](https://img.shields.io/badge/-Linktree-FF5722?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/burakmusiclive)
-[![Articles](https://img.shields.io/badge/-Articles-009688?style=for-the-badge&logo=bookstack&logoColor=white)](https://burakgunduztr.github.io/)
+[![Resources](https://img.shields.io/badge/-Resources-009688?style=for-the-badge&logo=bookstack&logoColor=white)](https://burakgunduztr.github.io/)
 
 </div>
 
@@ -84,16 +84,17 @@ I use **Python** to explore the intersection of music and data. Hobby projects s
 **🧰 Python Toolbox**
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
-<img src="https://img.shields.io/badge/Librosa-FF6F00?style=flat-square"/>
-<img src="https://img.shields.io/badge/music21-8B0000?style=flat-square"/>
-<img src="https://img.shields.io/badge/pretty--midi-4B0082?style=flat-square"/>
-<img src="https://img.shields.io/badge/mido-228B22?style=flat-square"/>
+<a href="https://github.com/python"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
+<a href="https://github.com/numpy/numpy"><img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/></a>
+<a href="https://github.com/pandas-dev/pandas"><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>
+<a href="https://github.com/scipy/scipy"><img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white"/></a>
+<a href="https://github.com/matplotlib/matplotlib"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/></a>
+<a href="https://github.com/librosa/librosa"><img src="https://img.shields.io/badge/Librosa-FF6F00?style=flat-square"/></a>
+<a href="https://github.com/apache/arrow"><img src="https://img.shields.io/badge/PyArrow-150458?style=flat-square&logo=apache&logoColor=white"/></a>
+<a href="https://github.com/scikit-learn/scikit-learn"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>
+<a href="https://github.com/cuthbertLab/music21"><img src="https://img.shields.io/badge/music21-8B0000?style=flat-square"/></a>
+<a href="https://github.com/craffel/pretty-midi"><img src="https://img.shields.io/badge/pretty--midi-4B0082?style=flat-square"/></a>
+<a href="https://github.com/mido/mido"><img src="https://img.shields.io/badge/mido-228B22?style=flat-square"/></a>
 </p>
 
 ---
